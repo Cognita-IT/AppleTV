@@ -1,0 +1,4 @@
+Name,URL,Duration,UpdateInterval,StartOn,EndBy,Cache
+Exhibit01,http://10.101.34.91/school logos/bckp gray.png,00:00:10,01:00:00,01/01/2018 00:00,12/31/30 23:59,yes
+Exhibit02,http://10.101.34.91/school logos/bckp blue 4k.png,00:00:10,01:00:00,01/01/2018 00:00,12/31/30 23:59,yes
+Exhibit03,http://10.101.34.91/school logos/cognita background.png,00:00:10,01:00:00,01/01/2018 00:00,12/31/30 23:59,yes

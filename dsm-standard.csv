@@ -1,3 +1,7 @@
 Name,URL,Duration,UpdateInterval,StartOn,EndBy,Cache
-Exhibit01,https://raw.githubusercontent.com/Cognita-IT/AppleTV/refs/heads/master/_DSM/00.png,0:00:15,0:10:00,1/1/18 0:00,12/31/30 23:59,yes
-Exhibit02,https://raw.githubusercontent.com/Cognita-IT/AppleTV/refs/heads/master/_DSM/01.png,0:00:15,0:10:00,1/1/18 0:00,12/31/30 23:59,yes
+Exhibit01,https://raw.githubusercontent.com/Cognita-IT/AppleTV/refs/heads/master/_DSM/00.png,00:00:15,00:10:00,01/01/2018 00:00,12/31/30 23:59,yes
+Exhibit02,https://raw.githubusercontent.com/Cognita-IT/AppleTV/refs/heads/master/_DSM/01.png,00:00:15,00:10:00,01/01/2018 00:00,12/31/30 23:59,yes
+Exhibit03,https://raw.githubusercontent.com/Cognita-IT/AppleTV/refs/heads/master/_DSM/02.png,00:00:15,00:10:00,01/01/2018 00:00,12/31/30 23:59,yes
+Exhibit04,https://raw.githubusercontent.com/Cognita-IT/AppleTV/refs/heads/master/_DSM/03.png,00:00:15,00:10:00,01/01/2018 00:00,12/31/30 23:59,yes
+Exhibit05,https://raw.githubusercontent.com/Cognita-IT/AppleTV/refs/heads/master/_DSM/04.png,00:00:15,00:10:00,01/01/2018 00:00,12/31/30 23:59,yes
+Exhibit06,https://raw.githubusercontent.com/Cognita-IT/AppleTV/refs/heads/master/_DSM/05.png,00:00:15,00:10:00,01/01/2018 00:00,12/31/30 23:59,yes
